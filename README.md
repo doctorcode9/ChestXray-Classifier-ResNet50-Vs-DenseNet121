@@ -19,13 +19,14 @@ ResNet-50 is composed of 50 layers and employs **residual (skip) connections** t
 - **Optimizer parameters:** 4,198,404 (16.02 MB)
 
 **Figure 1. ResNet-50 Training History**  
-`![ResNet-50 Training History](main/images/resnet_train.png)`
+`![ResNet-50 Training History](https://raw.githubusercontent.com/doctorcode9/ChestXray-Classifier-ResNet50-Vs-DenseNet121/refs/heads/main/images/resnet_train.png)`
 
 **Figure 2. ResNet-50 Confusion Matrix**  
-`![ResNet-50 Confusion Matrix](main/images/resnet_matrix.png)`
+`![ResNet-50 Confusion Matrix](https://raw.githubusercontent.com/doctorcode9/ChestXray-Classifier-ResNet50-Vs-DenseNet121/refs/heads/main/images/resnet_matrix.png)
+`
 
 **Figure 3. ResNet-50 Validation Results**  
-`![ResNet-50 Validation Results](main/images/resnet_val.png)`
+`![ResNet-50 Validation Results](https://raw.githubusercontent.com/doctorcode9/ChestXray-Classifier-ResNet50-Vs-DenseNet121/refs/heads/main/images/resnet_val.png)`
 
 **Classification Report:**
 
@@ -49,13 +50,13 @@ It is more parameter-efficient compared to ResNet-50.
 - **Non-trainable parameters:** 7,037,504 (26.85 MB)
 
 **Figure 4. DenseNet-121 Training History**  
-`![DenseNet-121 Training History](main/images/dense_train.png)`
+`![DenseNet-121 Training History](https://raw.githubusercontent.com/doctorcode9/ChestXray-Classifier-ResNet50-Vs-DenseNet121/refs/heads/main/images/dense_train.png)`
 
 **Figure 5. DenseNet-121 Confusion Matrix**  
-`![DenseNet-121 Confusion Matrix](main/images/dense_matrix.png)`
+`![DenseNet-121 Confusion Matrix](https://raw.githubusercontent.com/doctorcode9/ChestXray-Classifier-ResNet50-Vs-DenseNet121/refs/heads/main/images/dense_matrix.png)`
 
 **Figure 6. DenseNet-121 Validation Results**  
-`![DenseNet-121 Validation Results](main/images/dense_val.png)`
+`![DenseNet-121 Validation Results](https://raw.githubusercontent.com/doctorcode9/ChestXray-Classifier-ResNet50-Vs-DenseNet121/refs/heads/main/images/dense_val.png)`
 
 **Classification Report:**
 
