@@ -19,7 +19,7 @@ ResNet-50 is composed of 50 layers and employs **residual (skip) connections** t
 - **Optimizer parameters:** 4,198,404 (16.02 MB)
 
 **Figure 1. ResNet-50 Training History**  
-`![ResNet-50 Training History](images/resnet_training.png)`
+`![ResNet-50 Training History](images/resnet_train.png)`
 
 **Figure 2. ResNet-50 Confusion Matrix**  
 `![ResNet-50 Confusion Matrix](images/resnet_matrix.png)`
@@ -49,7 +49,7 @@ It is more parameter-efficient compared to ResNet-50.
 - **Non-trainable parameters:** 7,037,504 (26.85 MB)
 
 **Figure 4. DenseNet-121 Training History**  
-`![DenseNet-121 Training History](images/dense_plot.png)`
+`![DenseNet-121 Training History](images/dense_train.png)`
 
 **Figure 5. DenseNet-121 Confusion Matrix**  
 `![DenseNet-121 Confusion Matrix](images/dense_matrix.png)`
